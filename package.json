@@ -1,0 +1,17 @@
+{
+  "name": "division_bot",
+  "version": "0.1.0",
+  "description": "Le Bot de Division",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Division Owner Kirito",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ds": "^1.4.2",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.2"
+  }
+}
