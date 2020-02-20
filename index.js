@@ -30,4 +30,4 @@ fs.readdir('./Events/', (error, f) => {
         
 });
 
-client.login('Njc5ODA0MTc3MTM1OTYwMDY0.Xk5kHA.m8oBai0WNt_0eoROreCBXXUuQh0');
+client.login('Token supprimée suite à la publication du GITHUB');
